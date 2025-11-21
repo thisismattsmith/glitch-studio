@@ -761,7 +761,9 @@ export default function App() {
             >
               <Download size={18} />
               <span>Save Image</span>
+               
             </button>
+            <br />
         </div>
       </aside>
 
